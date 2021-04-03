@@ -24,7 +24,7 @@ dependencies:
   rating_bar: ^0.2.0
   signature: ^3.2.1
 #  validators: ^2.0.1
-  validators: ^2.0.0 # change to latest version
+  validators: ^2.1.0
 
 # dependency_overrides:
   # intl: ^0.17.0
